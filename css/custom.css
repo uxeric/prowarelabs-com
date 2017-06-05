@@ -1,0 +1,56 @@
+.btn-ghost {
+    padding: 21px 20px 21px !important;
+}
+.btn-ghost:link,
+.btn-ghost:visited {
+
+}
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:focus,
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:hover,
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:active {
+    color: white !important;
+}
+.parallax.parallax-dark {
+    background: rgba(0, 0, 0, 0.5);
+}
+#parallax.parallax-pi {
+    background: linear-gradient(
+                    rgba(0, 0, 0, 0.55),
+                    rgba(0, 0, 0, 0.55)
+                ), url(../images/parallax2.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    padding:10% 0;
+}
+#parallax li {
+    margin-top: 8px;
+}
+#parallax p {
+    margin-top: 24px;
+}
+nav.navbar.bootsnav .navbar-brand > img {
+    width: 220px;
+    margin-top: 4px;
+}
+#review_slider p.review_text {
+    font-size: 1.6em;
+}
+#review_slider p.review_text::before {
+    content: url("../images/quoteLeft.png");
+    left: 0;
+    margin-left: -50px;
+    top: 0px;
+}
+#review_slider p.review_text::after {
+    content: url("../images/quoteRight.png");
+    margin-right: -50px;
+    right: 0;
+    top: 0px;
+}
+@media (max-width:991px) {
+    .header-subtext {
+        display: none;
+    }
+}
