@@ -61,7 +61,7 @@
                         </div>
                         <div class="col-md-12">
                             <input type="hidden" class="form-control" name="type" id="type">
-                            <textarea placeholder="Comment"  name="message" id="message"></textarea>
+                            <textarea placeholder="Message"  name="message" id="message"></textarea>
                             <button class="btn_common yellow border_radius" id="btn_submit">
                                 <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
                                 &nbsp; Send
