@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteBase /
-RewriteCond %{REQUEST_URI} !\.(?:css|ico|robots\.txt|crossdomain\.xml|js|jpe?g|gif|png|mp4|webm|eot|svg|ttf|woff|woff2|otf)$ [NC]
+RewriteCond %{REQUEST_URI} !\.(?:css|ico|robots\.txt|crossdomain\.xml|js|jpe?g|gif|png|mp4|webm|eot|svg|ttf|woff|woff2|otf|pdf)$ [NC]
 RewriteRule ^(.*)$ index.php [L]
