@@ -18,10 +18,10 @@
         <div class="row padding-bottom">
             <div class="col-md-4 contact_address heading_space wow fadeInLeft" data-wow-delay="400ms">
                 <h2 class="heading heading_space"><span>Get</span> in Touch <span class="divider-left"></span></h2>
-                <p>Choose inquiry:</p>
+                <p>Choose type of inquiry:</p>
                 <div class="type-contact address<?php if($_GET['type'] == 'contact'){ echo ' active';}; ?>">
                     <i class="icon icon-envelope border_radius"></i>
-                    <h4>General Inquiries</h4>
+                    <h4>General Inquiry</h4>
                     <p>I have a general question.</p>
                 </div>
                 <div class="type-demo address second<?php if($_GET['type'] == 'demo'){ echo ' active';}; ?>">
