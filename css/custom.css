@@ -49,6 +49,35 @@ nav.navbar.bootsnav .navbar-brand > img {
     right: 0;
     top: 0px;
 }
+#request-demo .request-demo-left {
+    color: white;
+    background-color: #26ACDE;
+    padding: 85px 30px;
+    text-align: center;
+}
+#request-demo .request-demo-right {
+    color: white;
+    background-color: #3D4244;
+    padding: 85px 30px;
+    text-align: center;
+}
+#request-demo .request-demo-right .fa {
+    margin-left: 10px;
+}
+#request-demo a:link,
+#request-demo a:visited {
+    color: white;
+}
+#request-demo a:focus,
+#request-demo a:hover,
+#request-demo a:active {
+    color: white;
+    text-decoration: underline;
+}
+.panel {
+    border-radius: 0px;
+    padding: 25px;
+}
 @media (max-width:991px) {
     .header-subtext {
         display: none;

@@ -7,6 +7,7 @@
 $routes = [
     '' => 'home',
     '404' => '404',
+    'proinspector' => 'proinspector',
 ];
 
 $uri = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) , '/');
