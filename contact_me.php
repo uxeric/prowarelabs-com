@@ -1,8 +1,8 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "admin@themes.ads"; //Replace with recipient email address
-	$subject        = 'Xwin - New Contact Inquiry'; //Subject line for emails
+	$to_Email   	= "eric@prowarelabs.com"; //Replace with recipient email address
+	$subject        = 'Website - ' . $_POST['type']; //Subject line for emails
 
 
 	//check if its an ajax request, exit if not
@@ -58,7 +58,7 @@ if($_POST)
 	
 	$message_Body = "<strong>Name: </strong>". $user_Name ."<br>";
 	$message_Body .= "<strong>Email: </strong>". $user_Email ."<br>";
-	$message_Body .= "<strong>Website: </strong>". $user_Website ."<br>";
+	$message_Body .= "<strong>Municipality / City: </strong>". $user_Website ."<br>";
 	$message_Body .= "<strong>Message: </strong>". $user_Message ."<br>";
 	
 	
