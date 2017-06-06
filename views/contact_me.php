@@ -51,7 +51,7 @@ if($_POST)
 	
 	if(strlen($user_Message)<5) //check emtpy message
 	{
-		$output = json_encode(array('type'=>'error', 'text' => 'Too short message! Please enter something.'));
+		$output = json_encode(array('type'=>'error', 'text' => 'Message too short.'));
 		die($output);
 	}
 	
@@ -81,10 +81,10 @@ if($_POST)
 	
 	if(!$sentMail)
 	{
-		$output = json_encode(array('type'=>'error', 'text' => 'Could not send mail! Please check your PHP mail configuration.'));
+		$output = json_encode(array('type'=>'error', 'text' => 'Error sending email. Please try again later.'));
 		die($output);
 	}else{
-		$output = json_encode(array('type'=>'message', 'text' => 'Hi '.$user_Name .' Thank you for contacting us.'));
+		$output = json_encode(array('type'=>'message', 'text' => 'Thank you for contacting us '.$user_Name .'. We will reply as soon as possible.'));
 		die($output);
 	}
 }
