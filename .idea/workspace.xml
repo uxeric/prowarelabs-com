@@ -2,6 +2,137 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0abafd66-ddaf-4de8-9492-bbfd68fb9110" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about-us.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/about.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/awesome.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-project1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner-service1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blogfull1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blogfull2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blogfull3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bloggrid9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cart-item1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cart-item2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/cbp-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/commenter1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/commenter2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/contact.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/counter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/customer1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/detail1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/detail2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/detail3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/footer-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fun-facts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/history1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/history2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/history3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/history4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/maintenance.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/news9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/no-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/page-tittle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/parallax1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/partner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/post3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/profile1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/profile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/profile3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/profile4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quote.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/services6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop-detail.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/shop1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/team8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/testinomial1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/text-rotator.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/tour5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/services.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/services_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop_cart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop_detail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testinomial.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/ProwareLabs-Setup-Guide.pdf" afterPath="$PROJECT_DIR$/documentation/ProwareLabs-Setup-Guide.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/ProwareLabs-Technical-Guide.pdf" afterPath="$PROJECT_DIR$/documentation/ProwareLabs-Technical-Guide.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
@@ -23,125 +154,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/museo_slab_0-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/museo_slab_0-webfont.woff2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/museo_slab_1-webfont.woff" afterPath="$PROJECT_DIR$/fonts/museo_slab_1-webfont.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/museo_slab_1-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/museo_slab_1-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/about-us.jpg" afterPath="$PROJECT_DIR$/images/about-us.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/about.jpg" afterPath="$PROJECT_DIR$/images/about.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/awesome.png" afterPath="$PROJECT_DIR$/images/awesome.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner-project1.jpg" afterPath="$PROJECT_DIR$/images/banner-project1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner-service1.jpg" afterPath="$PROJECT_DIR$/images/banner-service1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner1.jpg" afterPath="$PROJECT_DIR$/images/banner1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner2.jpg" afterPath="$PROJECT_DIR$/images/banner2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner3.jpg" afterPath="$PROJECT_DIR$/images/banner3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banner4.jpg" afterPath="$PROJECT_DIR$/images/banner4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog1.jpg" afterPath="$PROJECT_DIR$/images/blog1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog2.jpg" afterPath="$PROJECT_DIR$/images/blog2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blog3.jpg" afterPath="$PROJECT_DIR$/images/blog3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blogfull1.jpg" afterPath="$PROJECT_DIR$/images/blogfull1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blogfull2.jpg" afterPath="$PROJECT_DIR$/images/blogfull2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blogfull3.jpg" afterPath="$PROJECT_DIR$/images/blogfull3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid1.jpg" afterPath="$PROJECT_DIR$/images/bloggrid1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid2.jpg" afterPath="$PROJECT_DIR$/images/bloggrid2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid3.jpg" afterPath="$PROJECT_DIR$/images/bloggrid3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid4.jpg" afterPath="$PROJECT_DIR$/images/bloggrid4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid5.jpg" afterPath="$PROJECT_DIR$/images/bloggrid5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid6.jpg" afterPath="$PROJECT_DIR$/images/bloggrid6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid7.jpg" afterPath="$PROJECT_DIR$/images/bloggrid7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid8.jpg" afterPath="$PROJECT_DIR$/images/bloggrid8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bloggrid9.jpg" afterPath="$PROJECT_DIR$/images/bloggrid9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cart-item1.jpg" afterPath="$PROJECT_DIR$/images/cart-item1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cart-item2.jpg" afterPath="$PROJECT_DIR$/images/cart-item2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cbp-sprite.png" afterPath="$PROJECT_DIR$/images/cbp-sprite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/commenter1.jpg" afterPath="$PROJECT_DIR$/images/commenter1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/commenter2.jpg" afterPath="$PROJECT_DIR$/images/commenter2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/contact.jpg" afterPath="$PROJECT_DIR$/images/contact.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/counter.jpg" afterPath="$PROJECT_DIR$/images/counter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/customer1.png" afterPath="$PROJECT_DIR$/images/customer1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/detail1.jpg" afterPath="$PROJECT_DIR$/images/detail1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/detail2.jpg" afterPath="$PROJECT_DIR$/images/detail2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/detail3.jpg" afterPath="$PROJECT_DIR$/images/detail3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/fancybox_sprite.png" afterPath="$PROJECT_DIR$/images/fancybox_sprite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/footer-map.png" afterPath="$PROJECT_DIR$/images/footer-map.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/fun-facts.png" afterPath="$PROJECT_DIR$/images/fun-facts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery1.jpg" afterPath="$PROJECT_DIR$/images/gallery1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery10.jpg" afterPath="$PROJECT_DIR$/images/gallery10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery11.jpg" afterPath="$PROJECT_DIR$/images/gallery11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery12.jpg" afterPath="$PROJECT_DIR$/images/gallery12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery13.jpg" afterPath="$PROJECT_DIR$/images/gallery13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery2.jpg" afterPath="$PROJECT_DIR$/images/gallery2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery3.jpg" afterPath="$PROJECT_DIR$/images/gallery3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery4.jpg" afterPath="$PROJECT_DIR$/images/gallery4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery5.jpg" afterPath="$PROJECT_DIR$/images/gallery5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery6.jpg" afterPath="$PROJECT_DIR$/images/gallery6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery7.jpg" afterPath="$PROJECT_DIR$/images/gallery7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery8.jpg" afterPath="$PROJECT_DIR$/images/gallery8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gallery9.jpg" afterPath="$PROJECT_DIR$/images/gallery9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/graph.png" afterPath="$PROJECT_DIR$/images/graph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/hands.png" afterPath="$PROJECT_DIR$/images/hands.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/history1.jpg" afterPath="$PROJECT_DIR$/images/history1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/history2.jpg" afterPath="$PROJECT_DIR$/images/history2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/history3.jpg" afterPath="$PROJECT_DIR$/images/history3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/history4.jpg" afterPath="$PROJECT_DIR$/images/history4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/home.png" afterPath="$PROJECT_DIR$/images/home.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/loader.gif" afterPath="$PROJECT_DIR$/images/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo-white.png" afterPath="$PROJECT_DIR$/images/logo-white.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/maintenance.png" afterPath="$PROJECT_DIR$/images/maintenance.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news1.jpg" afterPath="$PROJECT_DIR$/images/news1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news2.jpg" afterPath="$PROJECT_DIR$/images/news2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news3.jpg" afterPath="$PROJECT_DIR$/images/news3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news4.jpg" afterPath="$PROJECT_DIR$/images/news4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news5.jpg" afterPath="$PROJECT_DIR$/images/news5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news6.jpg" afterPath="$PROJECT_DIR$/images/news6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news7.jpg" afterPath="$PROJECT_DIR$/images/news7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news8.jpg" afterPath="$PROJECT_DIR$/images/news8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/news9.jpg" afterPath="$PROJECT_DIR$/images/news9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/no-img.jpg" afterPath="$PROJECT_DIR$/images/no-img.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/page-tittle.jpg" afterPath="$PROJECT_DIR$/images/page-tittle.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/parallax1.jpg" afterPath="$PROJECT_DIR$/images/parallax1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/parallax2.jpg" afterPath="$PROJECT_DIR$/images/parallax2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/partner1.jpg" afterPath="$PROJECT_DIR$/images/partner1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/partner2.jpg" afterPath="$PROJECT_DIR$/images/partner2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/partner3.jpg" afterPath="$PROJECT_DIR$/images/partner3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/post1.png" afterPath="$PROJECT_DIR$/images/post1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/post2.png" afterPath="$PROJECT_DIR$/images/post2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/post3.png" afterPath="$PROJECT_DIR$/images/post3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/profile1.png" afterPath="$PROJECT_DIR$/images/profile1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/profile2.png" afterPath="$PROJECT_DIR$/images/profile2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/profile3.png" afterPath="$PROJECT_DIR$/images/profile3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/profile4.png" afterPath="$PROJECT_DIR$/images/profile4.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/proinspector.jpg" afterPath="$PROJECT_DIR$/images/proinspector.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pwl-favicon.png" afterPath="$PROJECT_DIR$/images/pwl-favicon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pwl-logo-white.png" afterPath="$PROJECT_DIR$/images/pwl-logo-white.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pwl-logo.png" afterPath="$PROJECT_DIR$/images/pwl-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/quote.png" afterPath="$PROJECT_DIR$/images/quote.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/quoteLeft.png" afterPath="$PROJECT_DIR$/images/quoteLeft.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/quoteRight.png" afterPath="$PROJECT_DIR$/images/quoteRight.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services-detail.jpg" afterPath="$PROJECT_DIR$/images/services-detail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services1.jpg" afterPath="$PROJECT_DIR$/images/services1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services2.jpg" afterPath="$PROJECT_DIR$/images/services2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services3.jpg" afterPath="$PROJECT_DIR$/images/services3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services4.jpg" afterPath="$PROJECT_DIR$/images/services4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services5.jpg" afterPath="$PROJECT_DIR$/images/services5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/services6.jpg" afterPath="$PROJECT_DIR$/images/services6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/shop-detail.jpg" afterPath="$PROJECT_DIR$/images/shop-detail.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/shop1.jpg" afterPath="$PROJECT_DIR$/images/shop1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/star.png" afterPath="$PROJECT_DIR$/images/star.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/stars.png" afterPath="$PROJECT_DIR$/images/stars.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team1.jpg" afterPath="$PROJECT_DIR$/images/team1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team2.jpg" afterPath="$PROJECT_DIR$/images/team2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team3.jpg" afterPath="$PROJECT_DIR$/images/team3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team4.jpg" afterPath="$PROJECT_DIR$/images/team4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team5.jpg" afterPath="$PROJECT_DIR$/images/team5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team6.jpg" afterPath="$PROJECT_DIR$/images/team6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team7.jpg" afterPath="$PROJECT_DIR$/images/team7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/team8.jpg" afterPath="$PROJECT_DIR$/images/team8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testinomial1.jpg" afterPath="$PROJECT_DIR$/images/testinomial1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/text-rotator.jpg" afterPath="$PROJECT_DIR$/images/text-rotator.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour.jpg" afterPath="$PROJECT_DIR$/images/tour.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour1.jpg" afterPath="$PROJECT_DIR$/images/tour1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour2.jpg" afterPath="$PROJECT_DIR$/images/tour2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour3.jpg" afterPath="$PROJECT_DIR$/images/tour3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour4.jpg" afterPath="$PROJECT_DIR$/images/tour4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tour5.jpg" afterPath="$PROJECT_DIR$/images/tour5.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video/Construction.jpg" afterPath="$PROJECT_DIR$/video/Construction.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video/Construction.mp4" afterPath="$PROJECT_DIR$/video/Construction.mp4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video/Construction.webm" afterPath="$PROJECT_DIR$/video/Construction.webm" />
@@ -156,13 +175,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/prowarelabs.lcl.iml" afterPath="$PROJECT_DIR$/.idea/prowarelabs.lcl.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog2.html" afterPath="$PROJECT_DIR$/blog2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog3.html" afterPath="$PROJECT_DIR$/blog3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog_detail.html" afterPath="$PROJECT_DIR$/blog_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_me.php" afterPath="$PROJECT_DIR$/contact_me.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Xwin-icons.css" afterPath="$PROJECT_DIR$/css/Xwin-icons.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/animate.min.css" afterPath="$PROJECT_DIR$/css/animate.min.css" />
@@ -176,15 +188,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/owl.transitions.css" afterPath="$PROJECT_DIR$/css/owl.transitions.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/settings.css" afterPath="$PROJECT_DIR$/css/settings.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/edua-icons.svg" afterPath="$PROJECT_DIR$/fonts/edua-icons.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootsnav.js" afterPath="$PROJECT_DIR$/js/bootsnav.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
@@ -212,14 +220,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/molecules/request-demo.php" afterPath="$PROJECT_DIR$/molecules/request-demo.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/molecules/testimonials.php" afterPath="$PROJECT_DIR$/molecules/testimonials.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/molecules/why-proinspector.php" afterPath="$PROJECT_DIR$/molecules/why-proinspector.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services_detail.html" afterPath="$PROJECT_DIR$/services_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.html" afterPath="$PROJECT_DIR$/shop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop_cart.html" afterPath="$PROJECT_DIR$/shop_cart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop_detail.html" afterPath="$PROJECT_DIR$/shop_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/team.html" afterPath="$PROJECT_DIR$/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testinomial.html" afterPath="$PROJECT_DIR$/testinomial.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/404.php" afterPath="$PROJECT_DIR$/views/404.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/about-us.php" afterPath="$PROJECT_DIR$/views/about-us.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/contact-us.php" afterPath="$PROJECT_DIR$/views/contact-us.php" />
@@ -294,21 +294,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="29">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="638">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -416,20 +416,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="prowarelabs.lcl" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prowarelabs.lcl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prowarelabs.lcl" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -551,18 +537,17 @@
       <workItem from="1492696758671" duration="610000" />
       <workItem from="1492699212742" duration="43000" />
       <workItem from="1496694798622" duration="17162000" />
-      <workItem from="1496718695519" duration="394000" />
+      <workItem from="1496718695519" duration="2256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38570000" />
+    <option name="totallyTimeSpent" value="40432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -602,18 +587,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,50 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="29" column="111" lean-forward="false" selection-start-line="29" selection-start-column="111" selection-end-line="29" selection-end-column="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molecules/layout/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2697">
-          <caret line="93" column="23" lean-forward="false" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/molecules/pi-painpoints.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -687,6 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
           <caret line="29" column="111" lean-forward="false" selection-start-line="29" selection-start-column="111" selection-end-line="29" selection-end-column="122" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -702,6 +638,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -762,6 +699,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="8" column="110" lean-forward="false" selection-start-line="8" selection-start-column="110" selection-end-line="8" selection-end-column="110" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -810,6 +748,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -824,6 +763,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -831,6 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -838,6 +779,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -845,6 +787,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -860,6 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="88" column="41" lean-forward="true" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -874,6 +818,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1073">
           <caret line="37" column="47" lean-forward="true" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -888,6 +833,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3915">
           <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="138" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -895,6 +841,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1972">
           <caret line="68" column="8" lean-forward="false" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -905,14 +852,6 @@
           <folding>
             <element signature="e#3535#3541#0#HTML" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +903,50 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/about.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/about-us.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/awesome.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/banner-project1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cbp-sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/quote.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
