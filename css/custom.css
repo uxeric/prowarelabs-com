@@ -120,6 +120,30 @@ nav.navbar.bootsnav .navbar-brand > img {
 .content-page ul {
     margin-top: 15px;
 }
+.address {
+    width: 100%;
+}
+.address {
+    border: 1px solid transparent;
+}
+.address:link,
+.address:visited {
+    border: 1px solid transparent;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+.address:focus,
+.address:hover,
+.address:active {
+    border: 1px solid gray;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
+.address.active {
+    border: 1px solid gray;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+}
 @media (max-width:991px) {
     .header-subtext {
         display: none;

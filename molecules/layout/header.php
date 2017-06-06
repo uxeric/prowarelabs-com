@@ -68,7 +68,7 @@
           <li><a href="/">Home</a></li>
           <li><a href="/proinspector">ProInspector</a></li>
           <li><a href="/about-us">About Us</a></li>
-          <li><a href="/contact-us?typ=contact">Contact Us</a></li>
+          <li><a href="/contact-us?type=contact">Contact Us</a></li>
           <li><a href="/contact-us?type=demo" class="btn_common white_border btn-ghost">Request a Demo</a></li>
         </ul>
       </div>

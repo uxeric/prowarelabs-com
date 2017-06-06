@@ -12,30 +12,30 @@
 </section>
 <!--/ Page Header-->
 
-<!--Contact Deatils -->
+<!-- Contact -->
 <section id="contact" class="padding">
     <div class="container">
         <div class="row padding-bottom">
             <div class="col-md-4 contact_address heading_space wow fadeInLeft" data-wow-delay="400ms">
                 <h2 class="heading heading_space"><span>Get</span> in Touch <span class="divider-left"></span></h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-                <div class="address">
-                    <i class="icon icon-map-pin border_radius"></i>
-                    <h4>Visit Us</h4>
-                    <p>Tottenham Road, Japan.</p>
-                </div>
-                <div class="address second">
+                <p>Choose inquiry:</p>
+                <div class="type-contact address<?php if($_GET['type'] == 'contact'){ echo ' active';}; ?>">
                     <i class="icon icon-envelope border_radius"></i>
-                    <h4>Email Us</h4>
-                    <p><a href="mailto:xwin@info.com">xwin@info.com</a></p>
+                    <h4>General Inquiries</h4>
+                    <p>I have a general question.</p>
                 </div>
-                <div class="address">
-                    <i class="icon icon-phone4 border_radius"></i>
-                    <h4>Call Us</h4>
-                    <p>(+01) 123 456 7890</p>
+                <div class="type-demo address second<?php if($_GET['type'] == 'demo'){ echo ' active';}; ?>">
+                    <i class="icon icon-calendar border_radius"></i>
+                    <h4>Request a Demo</h4>
+                    <p>I would like to request a demo.</p>
+                </div>
+                <div class="type-support address<?php if($_GET['type'] == 'support'){ echo ' active';}; ?>">
+                    <i class="icon icon-wrench border_radius"></i>
+                    <h4>Technical Support</h4>
+                    <p>I have a techincal question.</p>
                 </div>
             </div>
-            <div class="col-md-8 wow fadeInRight" data-wow-delay="4500ms">
+            <div class="col-md-8 wow fadeInRight" data-wow-delay="1400ms">
                 <h2 class="heading heading_space"> <span>Contact</span> Form<span class="divider-left"></span></h2>
                 <form class="form-inline findus" id="contact-form" onSubmit="return false">
                     <div class="row">
@@ -56,31 +56,24 @@
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Website" name="website" id="website" required>
+                                <input type="text" class="form-control" placeholder="Municipality / City" name="website" id="website" required>
                             </div>
                         </div>
                         <div class="col-md-12">
+                            <input type="hidden" class="form-control" name="type" id="type">
                             <textarea placeholder="Comment"  name="message" id="message"></textarea>
-                            <button class="btn_common yellow border_radius" id="btn_submit">Submit</button>
+                            <button class="btn_common yellow border_radius" id="btn_submit">
+                                <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+                                &nbsp; Send
+                            </button>
                         </div>
                     </div>
                 </form>
-                <ul class="social_icon black top30">
-                    <li><a href="#." class="facebook"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#." class="twitter"><i class="icon-twitter4"></i></a></li>
-                    <li><a href="#." class="dribble"><i class="icon-dribbble5"></i></a></li>
-                    <li><a href="#." class="instagram"><i class="icon-instagram"></i></a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row wow bounceIn" data-wow-delay="300ms">
-            <div class="col-md-12">
-                <div id="map"></div>
             </div>
         </div>
     </div>
 </section>
-<!--/ Contact Details -->
+<!--/ Contact -->
 
 <?php include 'molecules/testimonials.php'; ?>
 <?php include 'molecules/layout/footer.php'; ?>

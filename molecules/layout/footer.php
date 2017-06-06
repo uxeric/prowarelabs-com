@@ -1,5 +1,5 @@
 
-<!--FOOTER-->
+<!-- Footer -->
 <footer class="padding-top">
     <div class="container">
         <div class="row">
@@ -41,9 +41,7 @@
         </div>
     </div>
 </div>
-<!--FOOTER ends-->
-
-
+<!--/ Footer -->
 
 <script src="js/jquery-2.2.3.js"></script>
 <script src="js/bootstrap.min.js"></script>
@@ -63,6 +61,7 @@
 <script src="js/revolution.extension.video.min.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/functions.js"></script>
+<script src="js/custom.js"></script>
 
 </body>
 </html>
