@@ -1,0 +1,61 @@
+<?php include 'molecules/layout/header.php'; ?>
+
+<!--Page Header-->
+<section class="page_header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 page-content">
+                <h1>Privacy Policy</h1>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Page Header-->
+
+<div class="container content-page">
+    <p>Your privacy is important to ProwareLabs Inc.. This privacy statement provides information about the personal information that ProwareLabs Inc. collects, and the ways in which ProwareLabs Inc. uses that personal information.</p>
+
+    <h2>Personal Information Collection</h2>
+    <p>ProwareLabs Inc. may collect and use the following kinds of personal information:</p>
+    <ul>
+        <li>Information about your use of this website</li>
+        <li>Information that you provide using for the purpose of registering with the website</li>
+        <li>Information about transactions carried out over this website</li>
+        <li>Information that you provide for the purpose of subscribing to the website services and Any other information that you send to ProwareLabs Inc..</li>
+    </ul>
+
+    <h2>Using Personal Information</h2>
+    <p>ProwareLabs Inc. may use your personal information to:</p>
+    <ul>
+        <li>Administer this website;</li>
+        <li>Personalize the website for you;</li>
+        <li>Enable your access to and use of the website services;</li>
+        <li>Send to you products that you purchase;</li>
+        <li>Supply to you services that you purchase;</li>
+        <li>Send you statements and invoices;</li>
+        <li>Collect payments from you; and</li>
+        <li>Send you marketing communications.</li>
+    </ul>
+    <p>Where ProwareLabs Inc. discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement. In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, ProwareLabs Inc. may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p>
+
+    <h2>Securing Your Data</h2>
+    <p>ProwareLabs Inc. will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.</p>
+    <p>ProwareLabs Inc. will store all the personal information you provide on its secure servers.</p>
+
+    <h2>Cross-Border Data Transfers</h2>
+    <p>Information that ProwareLabs Inc. collects may be stored and processed in and transferred between any of the countries in which ProwareLabs Inc. operates to enable the use of the information in accordance with this privacy policy. You agree to such cross-border transfers of personal information.</p>
+
+    <h2>Updating This Statement</h2>
+    <p>ProwareLabs Inc. may update this privacy policy by posting a new version on this website. You should check this page occasionally to ensure you are familiar with any changes.</p>
+
+    <h2>Other Websites</h2>
+    <p>This website contains links to other websites. ProwareLabs Inc. is not responsible for the privacy policies or practices of any third party.</p>
+
+    <h2>Contact ProwareLabs Inc.</h2>
+    <p>If you have any questions about this privacy policy or treatment of your personal information, please contact us by email.</p>
+</div>
+
+<?php include 'molecules/request-demo.php'; ?>
+<?php include 'molecules/testimonials.php'; ?>
+
+<?php include 'molecules/layout/footer.php'; ?>

@@ -67,9 +67,9 @@
         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
           <li><a href="/">Home</a></li>
           <li><a href="/proinspector">ProInspector</a></li>
-          <li><a href="#.">About Us</a></li>
-          <li><a href="#.">Contact Us</a></li>
-          <li><a href="#." class="btn_common white_border btn-ghost">Request a Demo</a></li>
+          <li><a href="/about-us">About Us</a></li>
+          <li><a href="/contact-us?typ=contact">Contact Us</a></li>
+          <li><a href="/contact-us?type=demo" class="btn_common white_border btn-ghost">Request a Demo</a></li>
         </ul>
       </div>
     </div>
@@ -78,10 +78,10 @@
             <a class="push-logo" href="/"><img src="images/pwl-logo.png" alt="logo"></a>
               <ul class="push_nav centered">
                 <li class="clearfix"><a href="/"> <span>&bull;</span> Home</a></li>
-                <li><a href="contact.html"> <span>&bull;</span> ProInspector</a></li>
-                <li><a href="contact.html"> <span>&bull;</span> About Us</a></li>
-                <li><a href="contact.html"> <span>&bull;</span> Contact Us</a></li>
-                <li><a href="contact.html"> <span>&bull;</span> Request a Demo</a></li>
+                <li><a href="/proinspector"> <span>&bull;</span> ProInspector</a></li>
+                <li><a href="/about-us"> <span>&bull;</span> About Us</a></li>
+                <li><a href="/contact-us?type=contact"> <span>&bull;</span> Contact Us</a></li>
+                <li><a href="/contact-us?type=demo"> <span>&bull;</span> Request a Demo</a></li>
               </ul>
             <div class="clearfix"></div>
         </nav>

@@ -10,7 +10,7 @@
                     <li><strong>Would you rather</strong> be on the road instead of creating various reports?</li>
                 </ul>
                 <p class="bottom25 whitecolor">Let us help you!</p>
-                <a href="#." class="border_radius btn_common white_border">Request a Demo</a>
+                <a href="/contact-us?type=demo" class="border_radius btn_common white_border">Request a Demo</a>
             </div>
         </div>
     </div>

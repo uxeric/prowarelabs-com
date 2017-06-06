@@ -11,23 +11,23 @@
             <div class="col-md-4 col-sm-4 footer_panel bottom25">
                 <h3 class="heading bottom25">Quick Links<span class="divider-left"></span></h3>
                 <ul class="links">
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Request a Demo</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>General Inquiries</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Support</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>About Us</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Techinical Guide</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Setup Guide</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Client Login</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Terms of Service</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Privacy Policy</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>Contact Us</a></li>
+                    <li><a href="/contact-us?type=demo"><i class="icon-chevron-small-right"></i>Request a Demo</a></li>
+                    <li><a href="/contact-us?type=contact"><i class="icon-chevron-small-right"></i>General Inquiries</a></li>
+                    <li><a href="/contact-us?type=support"><i class="icon-chevron-small-right"></i>Support</a></li>
+                    <li><a href="/about-us"><i class="icon-chevron-small-right"></i>About Us</a></li>
+                    <li><a href="/documentation/ProwareLabs-Technical-Guide.pdf"><i class="icon-chevron-small-right"></i>Techinical Guide</a></li>
+                    <li><a href="/documentation/ProwareLabs-Setup-Guide.pdf"><i class="icon-chevron-small-right"></i>Setup Guide</a></li>
+                    <li><a href="https://secure.prowarelabs.com/"><i class="icon-chevron-small-right"></i>Client Login</a></li>
+                    <li><a href="/terms-of-service"><i class="icon-chevron-small-right"></i>Terms of Service</a></li>
+                    <li><a href="/privacy-policy"><i class="icon-chevron-small-right"></i>Privacy Policy</a></li>
+                    <li><a href="/contact-us?type=contact"><i class="icon-chevron-small-right"></i>Contact Us</a></li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-4 footer_panel bottom25">
                 <h3 class="heading bottom25">Keep in Touch <span class="divider-left"></span></h3>
                 <p class=" address"><i class="icon-map-pin"></i>Ottawa, Ontario, Canada</p>
-                <p class=" address"><i class="icon-envelope"></i><a href="#.">Contact Us</a></p>
-                <p class=" address"><i class="icon-address-book"></i><a href="#.">Request a Demo</a></p>
+                <p class=" address"><i class="icon-envelope"></i><a href="/contact-us?type=contact">Contact Us</a></p>
+                <p class=" address"><i class="icon-address-book"></i><a href="/contact-us?type=demo">Request a Demo</a></p>
             </div>
         </div>
     </div>

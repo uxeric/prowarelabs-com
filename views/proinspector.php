@@ -1,10 +1,13 @@
 <?php include 'molecules/layout/header.php'; ?>
 
 <!--Page Header-->
-<section class="page_header padding-top">
+<section class="page_header">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 page-content"></div>
+            <div class="col-md-12 page-content">
+                <h1>ProInspector</h1>
+                <h3>Municipal Building Department Software</h3>
+            </div>
         </div>
     </div>
 </section>
@@ -22,7 +25,7 @@
                 </div>
             </div>
             <div class="col-md-7 col-sm-7 shop_info wow fadeInRight" data-wow-delay="400ms">
-                <h2 class="heading bottom25"><span>Pro</span>Inspector<span class="divider-left"></span></h2>
+                <h2 class="heading bottom25"><span>Why</span> ProInspector?<span class="divider-left"></span></h2>
                 <h4 class="price_product">Send your reports perfectly every time.</h4>
                 <p class="margin10">ProInspector was designed to meet the specific requirements of the municipal building department and their obligatory reporting to province.</p>
                 <p class="bottom25">Our ProInspector software advances the department efficiency for issuing and managing building permits, inspections, and reporting.
@@ -98,7 +101,6 @@
                         <p>Instant reports can be accessed in order for you to compare permit income to any previous month, quarter or year. Your
                             completely accurate monthly reports to MPAC, Tarion and Stats Can are completed in minutes instead of days and weeks. This
                             drastically reduces waiting time for tax assessments, at least months and sometimes years as experienced by our clients.</p>
-
                     </div>
                 </div>
                 <div class="panel panel-default">
@@ -138,19 +140,8 @@
         </div>
     </div>
 </section>
-<section id="request-demo">
-    <div class="row">
-        <div class="col-md-8 request-demo-left">
-            <h2>See How Our ProInspector Can Work For You</h2>
-        </div>
-        <div class="col-md-4 request-demo-right">
-            <a href="#">
-                <h2>Request a Demo <i class="fa fa-hand-o-up" aria-hidden="true"></i></h2>
-            </a>
-        </div>
-    </div>
-</section>
 <?php include 'molecules/why-proinspector.php'; ?>
+<?php include 'molecules/request-demo.php'; ?>
 <?php include 'molecules/testimonials.php'; ?>
 
 <?php include 'molecules/layout/footer.php'; ?>

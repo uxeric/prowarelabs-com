@@ -54,8 +54,8 @@
                      data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                      data-mask_out="x:0;y:0;s:inherit;e:inherit;"
                      data-start="2000">
-                    <a href="#." class="border_radius btn_common blue">Our Products</a>
-                    <a href="#." class="btn_common white_border">Request a Demo</a>
+                    <a href="/proinspector" class="border_radius btn_common blue">Learn About ProInspector</a>
+                    <a href="/contact-us?type=contact" class="btn_common white_border">Request a Demo</a>
                 </div>
             </li>
         </ul>
