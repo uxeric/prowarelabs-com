@@ -4,7 +4,7 @@
 //ini_set('display_errors', 1);
 //error_reporting(E_ALL);
 
-$routes = [
+$routes = array(
     '' => 'home',
     '404' => '404',
     'proinspector' => 'proinspector',
@@ -12,7 +12,8 @@ $routes = [
     'contact-us' => 'contact-us',
     'terms-of-service' => 'terms-of-service',
     'privacy-policy' => 'privacy-policy',
-];
+    'contact_me.php' => 'contact_me',
+);
 
 $uri = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) , '/');
 
