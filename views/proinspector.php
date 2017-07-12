@@ -46,7 +46,7 @@
                                         <td>Drastically reduce waiting time for assessments and automatically increase cashflow</td>
                                     </tr>
                                     <tr>
-                                        <td>Integrated and automated reporting to MPAC, Tarion and Statistics Canada</td>
+                                        <td>Integrated and automated reporting to MPAC, Tarion, Statistics Canada, and CMHC</td>
                                     </tr>
                                     <tr>
                                         <td>Automatically keep track of all permits including inspections</td>
@@ -58,7 +58,7 @@
                                         <td>Cloud based</td>
                                     </tr>
                                     <tr>
-                                        <td>Integrated mapping and GIS/GPS capabilities</td>
+                                        <td>Integrate your GIS/GPS maps</td>
                                     </tr>
                                     <tr>
                                         <td>Eliminate endless paperwork</td>
@@ -99,25 +99,30 @@
                         <p>Monitoring and measuring helps you evaluate your personnel's efforts and activities. Our comprehensive reports provide
                             instant summaries and statistics which are needed for building department workflow, as well as counsel members including the Mayor and CAO.</p>
                         <p>Instant reports can be accessed in order for you to compare permit income to any previous month, quarter or year. Your
-                            completely accurate monthly reports to MPAC, Tarion and Stats Can are completed in minutes instead of days and weeks. This
-                            drastically reduces waiting time for tax assessments, at least months and sometimes years as experienced by our clients.</p>
+                            completely accurate monthly reports to MPAC, Tarion, Statistics Canada, and CMHC are completed in minutes instead of days and weeks. This
+                            drastically reduces waiting time for tax assessments.</p>
                     </div>
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h3 class="heading bottom25">Custom Reports<span class="divider-left"></span></h3>
-                        <p>Let us help you to create custom internal reports including employee performance, year end, as well as reports for council.</p>
+                        <p>Besides built-in reports for MPAC, Tarion, Statistics Canada, and CMHC, we can also help you create custom internal reports such
+                            as year end, council reports, or other reports you require.</p>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h3 class="heading bottom25">Powerful Mobile Capabilities<span class="divider-left"></span></h3>
+                        <p>Manage inspections, add deficiencies including pictures, and sent your inspection report all from the field. Once you're done,
+                            synchronize to the cloud to update both your tablet and the office.</p>
                     </div>
                 </div>
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h3 class="heading bottom25">Permit Management<span class="divider-left"></span></h3>
-                        <p>ProInspector provides a simple and easy to use application to efficiently manage your building department personnel
-                            and activities. All your staff will have statistical data on their performance, which means they will all, have the
-                            real information needed to review productivity and project for your resource requirements. This will create a
-                            secure environment for all your staff and will improve overall dedication to their jobs and your municipality.</p>
-                        <p>ProwareLabs provides enhanced communications and management tools to keep you on top of all interaction within
-                            your building department. It also serves up detailed reports on all activity and can be presented in several flexible modes.</p>
+                        <p>ProInspector provides a simple and easy to use application to efficiently manage your building department activities.</p>
+                        <p>ProwareLabs provides enhanced communications and management tools to keep you on top of all interactions. It also serves
+                            up detailed reports on all activity and can be presented in several flexible modes.</p>
                         <p>ProwareLabs provides an integrated contact management features to keep you in touch with the people you need, when
                             you need them. Track all field activities, schedule a critical inspection, develop a personal list of project-related
                             contacts. It’s all at your fingertips to help manage your personnel and keep track of all activities with maximum
@@ -131,7 +136,7 @@
                             maximizing precious time. This approach provides CBO's with the ability to quickly understand all issue details
                             (positioning and activity) in order to manage the ever increasing demands on the department.</p>
                         <p>Provincial and municipal government issues touch on various activities in your building department such as property
-                            assessment, tax rate increases and environmental issues. Since many of these issues are cyclical in nature, city
+                            assessment, tax rate increases, and environmental issues. Since many of these issues are cyclical in nature, city
                             officials are now able to draw on historical data and past experiences to identify trends and develop proactive
                             strategies to better manage the building department.</p>
                     </div>

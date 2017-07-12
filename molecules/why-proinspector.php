@@ -14,7 +14,7 @@
                 <div class="col-sm-4 icon_box text-center margin_tophalf wow fadeInUp" data-wow-delay="500ms">
                     <i class="icon-laptop"></i>
                     <h4 class="text-capitalize bottom20 margin10">Custom Reports</h4>
-                    <p class="no_bottom">Generate custom internal reports including employee performance, year end, as well as reports for council.</p>
+                    <p class="no_bottom">Besides built-in reports for MPAC, Tarion, Statistics Canada, and CMHC, you can also generate custom internal reports such as year end, council reports, or other reports you require.</p>
                 </div>
                 <div class="col-sm-4 icon_box text-center margin_tophalf wow fadeInUp" data-wow-delay="500ms">
                     <i class="icon-globe"></i>
