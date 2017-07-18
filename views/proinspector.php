@@ -70,7 +70,7 @@
                                 <table class="table table-responsive table-striped">
                                     <tbody>
                                     <tr>
-                                        <td>Improve efficiency and spend less time on the road</td>
+                                        <td>Improve efficiency</td>
                                     </tr>
                                     <tr>
                                         <td>Easy to use mobile application to track & complete inspections in the field</td>
@@ -96,11 +96,11 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h3 class="heading bottom25">Reporting<span class="divider-left"></span></h3>
-                        <p>Monitoring and measuring helps you evaluate your personnel's efforts and activities. Our comprehensive reports provide
-                            instant summaries and statistics which are needed for building department workflow, as well as counsel members including the Mayor and CAO.</p>
-                        <p>Instant reports can be accessed in order for you to compare permit income to any previous month, quarter or year. Your
-                            completely accurate monthly reports to MPAC, Tarion, Statistics Canada, and CMHC are completed in minutes instead of days and weeks. This
-                            drastically reduces waiting time for tax assessments.</p>
+                        <p>Our comprehensive reports provide instant summaries and statistics which are needed for building department workflow, as well as council
+                            members including the Mayor and CAO.</p>
+                        <p>Instant reports can be accessed in order for you to compare permit income to any previous month, quarter or year. Your completely accurate
+                            monthly reports to MPAC, Tarion, Statistics Canada, and CMHC are completed in minutes instead of days and weeks. This drastically reduces
+                            waiting time for tax assessments.</p>
                     </div>
                 </div>
                 <div class="panel panel-default">
