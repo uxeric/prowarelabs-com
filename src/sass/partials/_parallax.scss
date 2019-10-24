@@ -1,0 +1,20 @@
+.parallax.parallax-dark {
+  background: rgba(0, 0, 0, 0.5);
+}
+#parallax.parallax-pi {
+  background: linear-gradient(
+                  rgba(0, 0, 0, 0.55),
+                  rgba(0, 0, 0, 0.55)
+              ), url(../images/parallax2.jpg) no-repeat;
+  background-size: cover;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center center;
+  padding: 100px 50px;
+}
+#parallax li {
+  margin-top: 8px;
+}
+#parallax p {
+  margin-top: 24px;
+}

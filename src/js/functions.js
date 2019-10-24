@@ -224,10 +224,11 @@ jQuery(function ($) {
   //Full Screen
   var revapi = $("#rev_slider_full").revolution({
     sliderType: "standard",
-    sliderLayout: "fullscreen",
+    sliderLayout: "fullwidth",
     scrollbarDrag: "true",
     delay: 9000,
     spinner: "off",
+    autoHeight: "off",
     navigation: {
       arrows: {
         enable: true
@@ -257,10 +258,11 @@ jQuery(function ($) {
 
   var revVideo = $("#rev_slider_video").revolution({
     sliderType: "standard",
-    sliderLayout: "fullscreen",
+    sliderLayout: "fullwidth",
     scrollbarDrag: "true",
     delay: 9000,
     spinner: "off",
+    autoHeight: "off",
     navigation: {
       arrows: {
         enable: false

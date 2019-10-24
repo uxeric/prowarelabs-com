@@ -1,0 +1,10 @@
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:focus,
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:hover,
+nav.navbar.bootsnav ul.nav > li > a.btn-ghost:active {
+    color: white !important;
+}
+
+nav.navbar.bootsnav .navbar-brand > img {
+  width: 220px;
+  margin-top: 4px;
+}

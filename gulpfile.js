@@ -29,7 +29,7 @@ const path = {
     // js: 'src/js/*.js',
     hbs_helpers: 'src/lib/helpers/*.js',
     html: 'src/views/**/!(_)*.html',
-    images: 'src/images/**/*.{jpg,jpeg,png}',
+    images: 'src/images/**/*.{jpg,jpeg}',
     sass: 'src/sass/**/*.scss',
     videos: 'src/videos/**/*.{mp4,webm,jpg}',
   },
@@ -45,6 +45,7 @@ const path = {
     headers: 'src/views/molecules/headers/**/*.hbs',
     includes: 'src/views/molecules/includes/**/*.hbs',
     layouts: 'src/views/molecules/layouts/**/*.hbs',
+    ctas: 'src/views/molecules/ctas/**/*.hbs',
   },
 }
 
@@ -56,6 +57,7 @@ function html_task () {
       .partials(path.partials.headers)
       .partials(path.partials.includes)
       .partials(path.partials.layouts)
+      .partials(path.partials.ctas)
       // .helpers(path.input.hbs_helpers)
       // .data('src/assets/data/**/*.{js,json}')
     )
@@ -91,7 +93,6 @@ function images_task () {
         cover: true, // Maintain aspect ratio
         upscale: false, // Don't resize up if smaller than 1920px
         quality: 0.50,
-        flatten: true, // Create one layer for multi-layer PNGs
       }))
     .pipe(dest(path.output.images))
     .pipe(browser_sync.stream())

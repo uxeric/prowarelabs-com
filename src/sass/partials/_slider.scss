@@ -1,0 +1,15 @@
+#review_slider p.review_text {
+  font-size: 1.6em;
+}
+#review_slider p.review_text::before {
+  content: url("../images/quoteLeft.png");
+  left: 0;
+  margin-left: -50px;
+  top: 0px;
+}
+#review_slider p.review_text::after {
+  content: url("../images/quoteRight.png");
+  margin-right: -50px;
+  right: 0;
+  top: 0px;
+}
