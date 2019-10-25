@@ -65,9 +65,35 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
+
           <li><a href="/">Home</a></li>
-          <li><a href="/proinspector">ProInspector</a></li>
-          <li><a href="/about-us">About Us</a></li>
+
+          <li class="dropdown">
+            <a href="/products/" class="dropdown-toggle" data-toggle="dropdown">Products</a>
+            <ul class="dropdown-menu">
+              <li><a href="/products/proinspector/">ProInspector</a></li>
+              <li><a href="/products/promaintenance/">ProMaintenance</a></li>
+              <li><a href="/products/prodevelopment/">ProDevelopment</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="/services/" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+            <ul class="dropdown-menu">
+              <li><a href="/services/custom-reporting/">Custom Reporting</a></li>
+              <li><a href="/services/custom-development/">Custom Development</a></li>
+              <li><a href="/services/import-legacy-data/">Import Legacy Data</a></li>
+            </ul>
+          </li>
+
+          <li class="dropdown">
+            <a href="/about/" class="dropdown-toggle" data-toggle="dropdown">About Us</a>
+            <ul class="dropdown-menu">
+              <li><a href="/about/our-team/">Our Team</a></li>
+              <li><a href="/about/our-story/">Our Story</a></li>
+            </ul>
+          </li>
+
           <li><a href="/contact-us?type=contact">Contact Us</a></li>
           <li><a href="/contact-us?type=demo" class="btn_common white_border btn-ghost">Request a Demo</a></li>
         </ul>
@@ -78,8 +104,9 @@
             <a class="push-logo" href="/"><img src="images/pwl-logo.png" alt="logo"></a>
               <ul class="push_nav centered">
                 <li class="clearfix"><a href="/"> <span>&bull;</span> Home</a></li>
-                <li><a href="/proinspector"> <span>&bull;</span> ProInspector</a></li>
-                <li><a href="/about-us"> <span>&bull;</span> About Us</a></li>
+                <li><a href="/products/"> <span>&bull;</span> Products</a></li>
+                <li><a href="/services/"> <span>&bull;</span> Services</a></li>
+                <li><a href="/about/"> <span>&bull;</span> About Us</a></li>
                 <li><a href="/contact-us?type=contact"> <span>&bull;</span> Contact Us</a></li>
                 <li><a href="/contact-us?type=demo"> <span>&bull;</span> Request a Demo</a></li>
               </ul>
@@ -92,7 +119,7 @@
 <!--Slider-->
 <section class="rev_slider_wrapper text-center">
     <!-- START REVOLUTION SLIDER 5.0 auto mode -->
-    <div id="rev_slider_video" class="rev_slider"  data-version=1571940242274"5.0">
+    <div id="rev_slider_video" class="rev_slider"  data-version=1572028292506"5.0">
         <ul>
             <!-- SLIDE  -->
             <li data-transition="fade">
