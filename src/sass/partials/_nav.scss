@@ -1,10 +1,18 @@
-nav.navbar.bootsnav ul.nav > li > a.btn-ghost:focus,
-nav.navbar.bootsnav ul.nav > li > a.btn-ghost:hover,
-nav.navbar.bootsnav ul.nav > li > a.btn-ghost:active {
+nav.navbar.bootsnav {
+  .navbar-brand > img {
+    width: 220px;
+    margin-top: 4px;
+  }
+  & ul.nav > li > a.btn-ghost:focus,
+  & ul.nav > li > a.btn-ghost:hover,
+  & ul.nav > li > a.btn-ghost:active {
     color: white !important;
+  }
+  .sidebar_menu {
+    .push-logo img {
+      margin-top: 115px;
+      width: 195px;
+    }
+  }
 }
 
-nav.navbar.bootsnav .navbar-brand > img {
-  width: 220px;
-  margin-top: 4px;
-}
