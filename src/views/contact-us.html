@@ -37,7 +37,7 @@
             </div>
             <div class="col-md-8 wow fadeInRight" data-wow-delay="1400ms">
                 <h2 class="heading heading_space"> <span>Contact</span> Form<span class="divider-left"></span></h2>
-                <form class="form-inline findus" id="contact-form">
+                <form class="form-inline findus" id="contact-form" name="contact-form" method="POST" data-netlify="true" netlify-honeypot="position">
                     <div class="row">
                         <div class="col-md-12">
                             <div id="result"></div>
@@ -46,21 +46,43 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Name"  name="name" id="name" required>
+                                <input
+                                    id="name"
+                                    name="name"
+                                    type="text"
+                                    placeholder="Name"
+                                    class="form-control"
+                                    required
+                                />
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email" name="email" id="email" required>
+                                <input
+                                    id="email"
+                                    name="email"
+                                    type="email"
+                                    placeholder="Email"
+                                    class="form-control"
+                                    required
+                                />
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-4">
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Municipality / City" name="website" id="website" required>
+                                <input
+                                    id="organization"
+                                    name="organization"
+                                    type="text"
+                                    placeholder="Municipality / Organization"
+                                    class="form-control"
+                                    required
+                                />
                             </div>
                         </div>
                         <div class="col-md-12">
                             <input type="hidden" class="form-control" name="type" id="type">
+                            <input type="hidden" name="position" id="position" />
                             <textarea placeholder="Message"  name="message" id="message"></textarea>
                             <button class="btn_common yellow border_radius" id="btn_submit">
                                 <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
