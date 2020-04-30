@@ -1,0 +1,8 @@
+#course_all .course .image {
+  height: 200px;
+  max-height: 200px;
+  min-height: 200px;
+}
+#course_all .course .image.zoom-in img {
+  width: 135%;
+}
